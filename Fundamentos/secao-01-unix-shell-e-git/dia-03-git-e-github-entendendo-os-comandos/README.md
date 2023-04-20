@@ -1,0 +1,1 @@
+Este exercicio foi a criação desse repositorio todo do github.
