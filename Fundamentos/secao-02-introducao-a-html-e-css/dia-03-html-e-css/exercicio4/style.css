@@ -1,0 +1,26 @@
+    div:hover {
+        border: 2px solid black;
+        padding: 1px;
+    }
+    #primaria {
+        background-color: red;
+        padding: 10px;
+    }
+    #secundaria {
+        background-color: aqua;
+        padding: 10px;
+    }
+    #complementar {
+        color: aliceblue;
+        background-color: blue;
+        padding: 10px;
+    }
+    #escura {
+        color: aliceblue;
+        background-color: darkblue;
+        padding: 10px;
+    }
+    #clara {
+        background-color: lightblue;
+        padding: 10px;
+    }
