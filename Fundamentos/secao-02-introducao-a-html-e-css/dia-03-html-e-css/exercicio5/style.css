@@ -1,0 +1,40 @@
+.par {
+    color: green;
+    font-weight: 600;
+}
+.impar {
+    text-transform: uppercase;
+}
+ol {
+    background-color:yellow;
+}
+h1, h2 {
+    color: red;
+    border: 1px solid black;
+    
+}
+h1 em, h2 em {
+    font-size: 40px;
+}
+
+li {
+    font-size: 20px;
+}
+li em {
+    font-weight: 600;
+}
+.top3 {
+    color: blue;
+
+}
+.pink {
+    background-color: pink;
+}
+a {
+    text-decoration: none;
+}
+
+a.mouse:hover {
+    font-weight: 600;
+    color: orange;
+}
